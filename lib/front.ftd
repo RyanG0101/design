@@ -28,13 +28,13 @@ color: $inherited.colors.text-strong
 role: $inherited.types.heading-medium
 
 -- ftd.text: $front.title
-color: $inherited.colors.text
+color: white
 role: $inherited.types.copy-small
 
 -- line:
 
 -- image-and-info:
-image: $assets.files.assets.contact.png
+image: $assets.files.assets.con.png
 info-1: $front.contact-1
 info-2: $front.contact-2
 
@@ -56,9 +56,9 @@ height: fill-container
 align-content: center
 
 -- ftd.image:
-src: $front.logo
-width.fixed.px: 80
-margin-left.px: 120
+src: https://imgs.search.brave.com/hNeH3HLoP61QHrW3LEXmhme_3yqdl_dOe8kvLxWHzHY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA0LzU5LzMxLzg1/LzM2MF9GXzQ1OTMx/ODU3OF9YaXpxbUN5/TUI2MlFoQ1p1cTEz/MGpMbzRwQ1VvckNG/Ti5qcGc
+width.fixed.px: 90
+margin-left.px: 130
 
 -- ftd.text: $front.company
 color: white

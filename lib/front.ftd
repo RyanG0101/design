@@ -28,7 +28,7 @@ color: $inherited.colors.text-strong
 role: $inherited.types.heading-medium
 
 -- ftd.text: $front.title
-color: white
+color: black
 role: $inherited.types.copy-small
 
 -- line:
